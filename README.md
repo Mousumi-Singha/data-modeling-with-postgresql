@@ -11,7 +11,7 @@ Extract, transform, load processes in **etl.py** populate the **songs** and **ar
 
 ## Prerequisites
 
-This project makes the folowing assumptions:
+This project makes the following assumptions:
 
 * Python 3 is available
 * `pandas` and `psycopg2` are available
